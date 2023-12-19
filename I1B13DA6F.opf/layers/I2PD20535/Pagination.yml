@@ -1,0 +1,88 @@
+id: c67422d4515e48f799d781c5c02a37f5
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  c9fd01db5fd443f8829b461ced62bf64:
+    span:
+      start: 0
+      end: 35
+    imgnum: 3
+    reference: I2PD205350003.jpg
+  54520245e09647f39fcbe1b92d07a469:
+    span:
+      start: 37
+      end: 479
+    imgnum: 5
+    reference: I2PD205350005.tif
+  690bee938b1a470787e27ea47d5f4ef7:
+    span:
+      start: 481
+      end: 1054
+    imgnum: 6
+    reference: I2PD205350006.tif
+  09be599df5c24b83b69dcce70c908b41:
+    span:
+      start: 1056
+      end: 1571
+    imgnum: 7
+    reference: I2PD205350007.tif
+  9516b53fcd644b029c521c87fe594909:
+    span:
+      start: 1573
+      end: 2112
+    imgnum: 8
+    reference: I2PD205350008.tif
+  6ada0f4c850440aebc8a7dd3fa7364a8:
+    span:
+      start: 2114
+      end: 2678
+    imgnum: 9
+    reference: I2PD205350009.tif
+  21fd25c4a3884c7a882ab51811fc0fa1:
+    span:
+      start: 2680
+      end: 3228
+    imgnum: 10
+    reference: I2PD205350010.tif
+  a664552f76044173ac192732fd1280ee:
+    span:
+      start: 3230
+      end: 3771
+    imgnum: 11
+    reference: I2PD205350011.tif
+  8726cd4b3d01479a89e0b5212a1c1bb4:
+    span:
+      start: 3773
+      end: 4333
+    imgnum: 12
+    reference: I2PD205350012.tif
+  e977af239413438f9e8116f0216f378f:
+    span:
+      start: 4335
+      end: 4916
+    imgnum: 13
+    reference: I2PD205350013.tif
+  49a65b264adf427d9296d4ccc160f805:
+    span:
+      start: 4918
+      end: 5489
+    imgnum: 14
+    reference: I2PD205350014.tif
+  ebb918957e874f62ab6bc8358c28a4a6:
+    span:
+      start: 5491
+      end: 6050
+    imgnum: 15
+    reference: I2PD205350015.tif
+  2563cd77ff3448d88cae9a784fe7d101:
+    span:
+      start: 6052
+      end: 6543
+    imgnum: 16
+    reference: I2PD205350016.tif
+  f48eb54d72c148a3bc0b11ad99da4aa3:
+    span:
+      start: 6545
+      end: 6696
+    imgnum: 18
+    reference: I2PD205350018.jpg
